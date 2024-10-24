@@ -1,0 +1,7 @@
+/Users/devoteeofbadrinath/Desktop/Development/Java/Microservices/Section 12/gatewayserver/src/main/java/com/eazybytes/gatewayserver/GatewayserverApplication.java
+/Users/devoteeofbadrinath/Desktop/Development/Java/Microservices/Section 12/gatewayserver/src/main/java/com/eazybytes/gatewayserver/config/KeycloakRoleConverter.java
+/Users/devoteeofbadrinath/Desktop/Development/Java/Microservices/Section 12/gatewayserver/src/main/java/com/eazybytes/gatewayserver/config/SecurityConfig.java
+/Users/devoteeofbadrinath/Desktop/Development/Java/Microservices/Section 12/gatewayserver/src/main/java/com/eazybytes/gatewayserver/controller/FallbackController.java
+/Users/devoteeofbadrinath/Desktop/Development/Java/Microservices/Section 12/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/FilterUtility.java
+/Users/devoteeofbadrinath/Desktop/Development/Java/Microservices/Section 12/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/RequestTraceFilter.java
+/Users/devoteeofbadrinath/Desktop/Development/Java/Microservices/Section 12/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/ResponseTraceFilter.java
